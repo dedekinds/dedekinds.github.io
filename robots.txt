@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhongshsh.github.io/https://zhongshsh.github.io//sitemap.xml
+Sitemap: https://dedekinds.github.io/https://dedekinds.github.io//sitemap.xml
