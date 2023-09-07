@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2023-08-20
+date: 2021-09-28 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-One paper "[Understanding Self-attention Mechanism via Dynamical System Perspective](https://arxiv.org/pdf/2308.09939.pdf)" accepted by ICCV'23
-
+I have one paper, <strong>[CWDA](https://arxiv.org/abs/2004.11627)</strong>,
+ accepted to <b>NeurIPS 2021</b> ! 🚀

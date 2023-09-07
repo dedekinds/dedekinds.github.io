@@ -1,9 +1,7 @@
 ---
 layout: post
-date: 2023-07-20
+date: 2021-09-01 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-One paper "[SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models](https://arxiv.org/pdf/2305.05189.pdf)" accepted by ACM MM'23
-
+I go back to the campus and start pursuing PhD degree in SYSU! Enjoy it! :fire:
