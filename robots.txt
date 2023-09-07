@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zhongshsh.github.io/https://zhongshsh.github.io//sitemap.xml
