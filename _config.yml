@@ -259,8 +259,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Zhong]
-  first_name: [Shanshan, S.S., Shanshan (co-first author), Shanshan (co-first)]
+  last_name: Huang
+  first_name: [Zhongzhan, Z.Z., Zhongzhan (co-first author), Zhongzhan (co-first)]
 
   style: apa
   locale: en
