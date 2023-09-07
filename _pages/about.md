@@ -37,11 +37,3 @@ The life can be what you want it to be. Right? &#128170;
 <!-- TODO update resume -->
 <!-- See my full resume here. -->
 
-<strong>Contact: </strong>
-      zhongzhanhuang [at] foxmail [dot] com
-<br>
-<strong>Follow: </strong>
-      <a href="https://scholar.google.com/citations?user=R-b68CEAAAAJ&hl=zh-CN" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-      <strong> | </strong>
-      <a href="https://github.com/dedekinds" target="_blank" title="GitHub"><i class="fab fa-github"></i> github</a>
-<br><br>
