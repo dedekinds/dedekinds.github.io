@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: avatar.png
+  image: avatar1.png
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
@@ -15,7 +15,33 @@ social: true  # includes social icons at the bottom of the page
 ---
 <!-- https://fangggf.github.io/ -->
 
-<div style="text-align: justify;">
+<!-- <div style="text-align: justify;">
 <p> Hello there! My name is Shanshan Zhong, and I am a student from the School of Computer Science and Engineering at Sun Yat-sem University, advised by Professor Wushao Wen and Professor Liang Lin. <br> My research interests primarily revolve around the application and structure design of generative models (including large language models and diffusion models), attention mechanism, and multimodal technology (including multimodal recommendation and multimodal information fusion). 
 </p>
-</div>
+</div> -->
+Hi, I am Zhongzhan Huang (黄中展), a Third-year Computer Science PhD student in Sun Yat-sen University, advised by
+<a href="http://www.linliang.net/" target="_blank">Prof. Liang Lin</a>
+in 
+<a href="https://www.sysuhcp.com" target="_blank">Human-Cyber-Physical Intelligence Integration (HCP-l2)</a>
+Lab.
+My research interest include the foundations of deep learning, neural network formulation (e.g. network pruning, design of effective network architectures, attention mechanism), and artificial intelligence for scientific computing. 
+<br>
+
+Recently, I try to think about how to apply artificial intelligence technology to science problems (e.g. physics, medical, mathematics and so on), and make meaningful AI work for human society.
+<br>
+
+
+The life can be what you want it to be. Right? &#128170;
+
+<!-- href="{{ site.resume_path | prepend: 'https://ghliu.github.io/assets/pdf/' }} -->
+<!-- TODO update resume -->
+<!-- See my full resume here. -->
+
+<strong>Contact: </strong>
+      zhongzhanhuang [at] foxmail [dot] com
+<br>
+<strong>Follow: </strong>
+      <a href="https://scholar.google.com/citations?user=R-b68CEAAAAJ&hl=zh-CN" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+      <strong> | </strong>
+      <a href="https://github.com/dedekinds" target="_blank" title="GitHub"><i class="fab fa-github"></i> github</a>
+<br><br>
