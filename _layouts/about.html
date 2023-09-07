@@ -23,7 +23,7 @@ layout: default
         
         <article>
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%} h-80 w-80">
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
@@ -112,6 +112,16 @@ layout: default
             </div>
           {%- endif %}
           -->
+
+          This page has been accessed at least
+          <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
+          src="http://stuff.mit.edu/cgi/counter/dedekinds" alt="several"></a>
+          times since 10/10/2021, and on average <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
+          src="http://stuff.mit.edu/cgi/perday/dedekinds" alt="several"></a> per day. 
+          
+          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LTdsMBwGIcQLYiY2Dq458jSgrQ0ho9GKGuDNGb-FOk8&cl=ffffff&w=a"></script>
+          
+
         </article>
 
 </div>
