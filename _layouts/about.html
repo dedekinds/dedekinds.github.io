@@ -23,14 +23,14 @@ layout: default
         
         <article>
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%} h-80 w-80">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
               {% if page.profile.image_circular %}
-                {%- assign profile_image_class = "img-small z-depth-2 rounded-circle" -%}
+                {%- assign profile_image_class = "img-fluid z-depth-2 rounded-circle" -%}
               {% else %}
-                {%- assign profile_image_class = "img-small z-depth-2 rounded" -%}
+                {%- assign profile_image_class = "img-fluid z-depth-2 rounded" -%}
               {% endif %}
 
               {% include figure.html 
