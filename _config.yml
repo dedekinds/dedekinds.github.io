@@ -315,7 +315,7 @@ imagemagick:
   widths:
     - 480
     - 800
-    - 1400
+    - 100
   input_directories:
     - assets/img/
   input_formats:
@@ -324,7 +324,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webp: "-resize 500x"
+    webp: "-resize 800x"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
