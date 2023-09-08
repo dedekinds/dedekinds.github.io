@@ -32,7 +32,7 @@ Recently, I try to think about how to apply artificial intelligence technology t
 <br>
 
 
-$$\int_R$$ 
+$$\int_R$$ 💪 $$\int_R$$
 
 
 The life can be what you want it to be. Right? &#128170;
