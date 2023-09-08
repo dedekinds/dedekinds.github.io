@@ -32,7 +32,10 @@ Recently, I try to think about how to apply artificial intelligence technology t
 <br>
 
 
-$$\int_R$$ The life can be what you want it to be. Right? &#128170;
+$$\int_R$$ 
+
+
+The life can be what you want it to be. Right? &#128170;
 
 <!-- href="{{ site.resume_path | prepend: 'https://ghliu.github.io/assets/pdf/' }} -->
 <!-- TODO update resume -->
