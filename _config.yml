@@ -260,7 +260,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: Huang
-  first_name: [Zhongzhan, Z.Z., Zhongzhan (co-first author), (co-first)Zhongzhan]
+  first_name: [Zhongzhan, Z.Z., Zhongzhan (co-first author), (co-first) Zhongzhan]
 
   style: apa
   locale: en
