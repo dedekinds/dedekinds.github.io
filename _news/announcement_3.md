@@ -5,4 +5,4 @@ inline: true
 ---
 
 🥳 Cheers! <strong>[SANN](https://dedekinds.github.io/)</strong>,
- accepted to <b>ICLR'22</b> ! 🚀
+ accepted to <b>ICLR'22</b> ! 

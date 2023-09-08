@@ -5,4 +5,4 @@ inline: true
 ---
 
 🥳 Cheers! <strong>[CWDA](https://arxiv.org/abs/2004.11627)</strong>,
- accepted to <b>NeurIPS'21</b> ! 🚀
+ accepted to <b>NeurIPS'21</b> ! 

@@ -5,4 +5,4 @@ inline: true
 ---
 
 🥳 Cheers! <strong>[CEM](https://dedekinds.github.io/)</strong>,
- accepted to <b>EMNLP'22</b> ! 🚀
+ accepted to <b>EMNLP'22</b> ! 

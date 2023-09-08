@@ -3,7 +3,7 @@
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
             <!-- <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}> -->
-            <div class="table-responsive" {% if site.news_scrollable and news_size > 10 %}style="max-height: 10vw; overflow-y: scroll;"{% endif %}>
+            <div class="table-responsive" {% if site.news_scrollable and news_size > 7 %}style="max-height: 10vw; overflow-y: scroll;"{% endif %}>
 
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%}
