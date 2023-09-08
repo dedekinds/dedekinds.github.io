@@ -75,6 +75,10 @@ layout: default
             
           <br><br>
           
+          {% if page.academic %}
+          {% include academic.html %}
+          {% endif %}   
+
           <!-- News -->
           {% if page.news -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
