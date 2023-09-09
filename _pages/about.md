@@ -29,12 +29,12 @@ My research interest include the foundations of deep learning (e.g. network prun
 <br>
 
 <!-- $$🚀 = \int_{🌔}^🌒 💪 d⌛$$ -->
-$$2^{2^2} + 2^2 + 2 = 22$$
+A funny finding: $$2^{2^2} + 2^2 + 2 = 22$$
 
 <!-- Recently, I try to think about how to apply artificial intelligence technology to science problems (e.g. physics, society, medical, mathematics and so on), and make meaningful AI work for human society. -->
 <!-- <br> -->
 
-The life can be what you want it to be. Right? &#128170;
+<!-- The life can be what you want it to be. Right? &#128170; -->
 
 <!-- href="{{ site.resume_path | prepend: 'https://ghliu.github.io/assets/pdf/' }} -->
 <!-- TODO update resume -->
