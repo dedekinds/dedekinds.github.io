@@ -29,7 +29,8 @@ My research interest include the foundations of deep learning (e.g. network prun
 <br>
 
 <!-- $$🚀 = \int_{🌔}^🌒 💪 d⌛$$ -->
-🤣👉 A funny finding for you 🤣👉:    $$2^{2^2} + 2^2 + 2 = 22$$ ![23](doge.png)
+🤣👉 A funny finding for you 🤣👉:    $$2^{2^2} + 2^2 + 2 = 22$$ <img src="https://github.com/dedekinds/dedekinds.github.io/blob/main/_pages/doge.png">
+
 
 <!-- Recently, I try to think about how to apply artificial intelligence technology to science problems (e.g. physics, society, medical, mathematics and so on), and make meaningful AI work for human society. -->
 <!-- <br> -->
