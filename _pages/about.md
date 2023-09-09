@@ -29,7 +29,7 @@ My research interest include the foundations of deep learning (e.g. network prun
 <br>
 
 <!-- $$🚀 = \int_{🌔}^🌒 💪 d⌛$$ -->
-<img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/doge.gif" width="30"> A funny finding for you <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/doge.gif" width="30">:    $$2^{2^2} + 2^2 + 2 = 22$$ 
+<img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/doge.gif" width="30"> A funny finding <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/andy-dwyer-amazed.gif" width="30">:    $$2^{2^2} + 2^2 + 2 = 22$$ 
 
 
 <!-- Recently, I try to think about how to apply artificial intelligence technology to science problems (e.g. physics, society, medical, mathematics and so on), and make meaningful AI work for human society. -->
