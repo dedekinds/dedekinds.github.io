@@ -37,6 +37,6 @@ The life can be what you want it to be. Right? &#128170;
 <!-- TODO update resume -->
 <!-- See my full resume here. -->
 
-  <h2>Academic Service</h2>
+  <h3>Academic Service</h3>
   Invited Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, ICANN<br/>
   Invited Journal Reviewer: IEEE TMM
