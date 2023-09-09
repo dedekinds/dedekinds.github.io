@@ -25,7 +25,7 @@ Hi, I am Zhongzhan Huang (黄中展), a Third-year Computer Science PhD student 
 in 
 <a href="https://www.sysuhcp.com" target="_blank">Human-Cyber-Physical Intelligence Integration (HCP-l2)</a>
 Lab.
-My research interest include the foundations of deep learning, neural network formulation (e.g. network pruning, design of effective network architectures, attention mechanism), and artificial intelligence for scientific computing. 
+My research interest include the foundations of deep learning (e.g. network pruning, design of effective network architectures, attention mechanism), and artificial intelligence for scientific computing. 
 <br>
 
 Recently, I try to think about how to apply artificial intelligence technology to science problems (e.g. physics, society, medical, mathematics and so on), and make meaningful AI work for human society.
@@ -37,6 +37,6 @@ The life can be what you want it to be. Right? &#128170;
 <!-- TODO update resume -->
 <!-- See my full resume here. -->
 
-  <h3>Academic Service</h3>
+  <h4>Academic Service</h4>
   Invited Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, ICANN<br/>
   Invited Journal Reviewer: IEEE TMM
