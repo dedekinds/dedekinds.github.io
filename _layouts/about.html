@@ -23,7 +23,7 @@ layout: default
         
         <article>
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}" style="width: 50%;">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
@@ -57,21 +57,6 @@ layout: default
                   <a href="https://github.com/dedekinds" target="_blank" title="GitHub"><i class="fab fa-github"></i> github</a>
           </div>
           
-          <!-- <picture>
-            <source 
-              srcset="https://github-readme-stats.vercel.app/api?username=zhongshsh&show_icons=true&theme=calm"
-              media="(prefers-color-scheme: dark)"
-              width="50%"
-              min-width="768px"
-            />
-            <source
-              srcset="https://github-readme-stats.vercel.app/api?username=zhongshsh&show_icons=true&theme=calm"
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-              width="50%"
-              min-width="768px"
-            />
-            <img src="https://github-readme-stats.vercel.app/api?username=zhongshsh&show_icons=true&theme=calm" width="50%" min-width="768px" />
-            </picture> -->
             
           <br>
           
