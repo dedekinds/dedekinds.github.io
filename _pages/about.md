@@ -5,7 +5,7 @@ permalink: /
 # subtitle: Ph.D. Student |  <a href="http://lv-nus.org/">Learning and Vision Lab</a>  |  <a href="https://nus.edu.sg/"> National University of Singapore</a>.
 
 profile:
-  align: right
+  align: left
   image: avatar1.png
   image_circular: false # crops the image to make it circular
 
