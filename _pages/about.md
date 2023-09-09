@@ -28,9 +28,9 @@ Lab.
 My research interest include the foundations of deep learning (e.g. network pruning, design of effective network architectures, attention mechanism, large language models and diffusion models), and artificial intelligence for scientific problems. 
 <br>
 
-$$\int_{🚀}$$
+$$🚀 = \int_{🌔}^🌒 💪 d⌛$$
 
-Recently, I try to think about how to apply artificial intelligence technology to science problems (e.g. physics, society, medical, mathematics and so on), and make meaningful AI work for human society.
+<!-- Recently, I try to think about how to apply artificial intelligence technology to science problems (e.g. physics, society, medical, mathematics and so on), and make meaningful AI work for human society. -->
 <br>
 
 The life can be what you want it to be. Right? &#128170;
