@@ -5,4 +5,4 @@ inline: true
 ---
 
 <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/cool-doge.gif" width="25"> Cheers! <strong>[NeurVec](https://arxiv.org/abs/2208.03680)</strong>,
- accepted to <b>Sci. Reports</b>  ! 
+ accepted to <b>Sci. Reports</b>  ! and <strong>[ScaleLong](www.arxiv.org)</strong>, accepted to <b>NeurIPS'23</b>  ! 
