@@ -43,5 +43,5 @@ My research interest include the foundations of deep learning (e.g. network prun
 <!-- See my full resume here. -->
 
   <h4>Academic Service</h4>
-  Invited Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, WWW, ICASSP, ICANN<br/>
+  Invited Conference Reviewer: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, WWW, ICASSP<br/>
   Invited Journal Reviewer: IEEE TMM, IEEE TCSVT
