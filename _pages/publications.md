@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: All Publications
 description: 
-years: [ 2023, 2022, 2021, 2020, preprint]
+years: [ 2024, 2023, 2022, 2021, 2020, preprint]
 nav: true
 nav_order: 1
 ---
