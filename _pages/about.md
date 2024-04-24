@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 </p>
 </div> -->
 Hi, I am Zhongzhan Huang (黄中展), a Third-year Computer Science PhD student in Sun Yat-sen University, advised by
-<a href="http://www.linliang.net/" target="_blank">Prof. Liang Lin</a>
+<a href="https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=zh-CN" target="_blank">Prof. Liang Lin</a>
 in 
 <a href="https://www.sysuhcp.com" target="_blank">Human-Cyber-Physical Intelligence Integration (HCP-l2)</a>
 Lab.
