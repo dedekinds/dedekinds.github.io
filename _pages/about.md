@@ -44,5 +44,5 @@ My research interest include the foundations of deep learning (e.g. network arch
 
   <h4>Academic Service</h4>
   Conference Reviewer: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, EMNLP, AAAI, WWW, MM<br/>
-  Journal Reviewer: IEEE TMM, IEEE TCSVT<br/>
+  Journal Reviewer: IEEE TMM, IEEE TCSVT, IEEE TNNLS<br/>
   Area Chair: BMVC
