@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 <p> Hello there! My name is Shanshan Zhong, and I am a student from the School of Computer Science and Engineering at Sun Yat-sem University, advised by Professor Wushao Wen and Professor Liang Lin. <br> My research interests primarily revolve around the application and structure design of generative models (including large language models and diffusion models), attention mechanism, and multimodal technology (including multimodal recommendation and multimodal information fusion). 
 </p>
 </div> -->
-Hi, I am Zhongzhan Huang (黄中展), a Third-year Computer Science PhD student in Sun Yat-sen University, advised by
+Hi, I am Zhongzhan Huang (黄中展), a Last-year Computer Science PhD student in Sun Yat-sen University, advised by
 <a href="https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=zh-CN" target="_blank">Prof. Liang Lin</a>
 in 
 <a href="https://www.sysuhcp.com" target="_blank">Human-Cyber-Physical Intelligence Integration (HCP-l2)</a>
