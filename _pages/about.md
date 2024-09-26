@@ -48,4 +48,4 @@ My research interests include the foundations of deep learning (e.g. network arc
   Area Chair: BMVC
 <br>
 
-  <strong style="color:red;">I am actively searching for the full-time research/applied scientist/postdoc position. Please feel free to contact me at huangzhzh23@mail2.sysu.edu.cn!</strong>
+  <strong style="color:red;">I am actively searching for the full-time research/applied scientist/postdoc position. Please feel free to contact me at huangzhzh23@mail2.sysu.edu.cn!</strong> <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/star.gif" width="30">
