@@ -46,3 +46,6 @@ My research interests include the foundations of deep learning (e.g. network arc
   Conference Reviewer: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, EMNLP, ACL, AAAI, WWW, MM<br/>
   Journal Reviewer: IEEE TMM, IEEE TCSVT, IEEE TNNLS<br/>
   Area Chair: BMVC
+<br>
+
+  <strong style="color:red;">I am actively searching for the full-time research/applied scientist/postdoc position. Please feel free to contact me at huangzhzh23@mail2.sysu.edu.cn!</strong>
