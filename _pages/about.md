@@ -25,7 +25,7 @@ Hi, I am Zhongzhan Huang (黄中展), a Final-year Computer Science PhD student 
 in 
 <a href="https://www.sysuhcp.com" target="_blank">Human-Cyber-Physical Intelligence Integration (HCP-l2)</a>
 Lab.
-My research interests include the foundations of deep learning (e.g. network architectures, attention mechanisms, LLMs and diffusion models), and AI for scientific problems. 
+My research interests include the foundations of deep learning (e.g. network architectures, attention mechanisms, LLMs and diffusion models), and recommender system. 
 <br>
 
 <!-- $$🚀 = \int_{🌔}^🌒 💪 d⌛$$ -->
@@ -48,4 +48,4 @@ My research interests include the foundations of deep learning (e.g. network arc
   Area Chair: BMVC
 <br>
 
-  <strong style="color:red;">I am actively searching for the full-time research/applied scientist/postdoc position. Please feel free to contact me at huangzhzh23@mail2.sysu.edu.cn!</strong> <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/star.gif" width="30">
+  <strong style="color:red;">I plan to search for a full-time research/applied scientist/postdoc position. Please feel free to contact me at huangzhzh23@mail2.sysu.edu.cn!</strong> <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/star.gif" width="30">
