@@ -21,10 +21,7 @@ social: true  # includes social icons at the bottom of the page
 </p>
 </div> -->
 Hi, I am Zhongzhan Huang (黄中展), a Final-year Computer Science PhD student at Sun Yat-sen University, advised by
-<a href="https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=zh-CN" target="_blank">Prof. Liang Lin</a>
-in 
-<a href="https://www.sysuhcp.com" target="_blank">Human-Cyber-Physical Intelligence Integration (HCP-l2)</a>
-Lab.
+<a href="https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=zh-CN" target="_blank">Prof. Liang Lin</a>.
 My research interests include the foundations of deep learning (e.g. network architectures, attention mechanisms, LLMs and diffusion models), and recommender system. 
 <br>
 
