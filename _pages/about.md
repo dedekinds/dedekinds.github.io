@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 <p> Hello there! My name is Shanshan Zhong, and I am a student at the School of Computer Science and Engineering at Sun Yat-sem University, advised by Professor Wushao Wen and Professor Liang Lin. <br> My research interests primarily revolve around the application and structure design of generative models (including large language models and diffusion models), attention mechanisms, and multimodal technology (including multimodal recommendation and multimodal information fusion). 
 </p>
 </div> -->
-Hi, I am Zhongzhan Huang (黄中展), a final-year CS PhD student at Sun Yat-sen University, advised by
+Hi, I am Zhongzhan Huang (黄中展), a research scientist at Bosch Research. I received my Ph.D. from Sun Yat-sen University and advised by
 <a href="https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=zh-CN" target="_blank">Prof. Liang Lin</a>.
 My research interest is GenAI's 3E (Enhancement – Evaluation – Efficiency). 
 <br>
@@ -45,4 +45,4 @@ My research interest is GenAI's 3E (Enhancement – Evaluation – Efficiency).
   Area Chair: NeurIPS, BMVC
 <br>
 
-  <strong style="color:red;">I plan to search for a full-time research/applied scientist/postdoc position. Please feel free to contact me at huangzhzh23@mail2.sysu.edu.cn!</strong> <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/star.gif" width="30">
+ <!--  <strong style="color:red;">I plan to search for a full-time research/applied scientist/postdoc position. Please feel free to contact me at huangzhzh23@mail2.sysu.edu.cn!</strong> <img src="https://github.com/dedekinds/dedekinds.github.io/raw/main/_pages/star.gif" width="30">-->
