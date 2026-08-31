@@ -149,7 +149,6 @@ blockquote {
 // Honors and awards
 
 .honors-awards {
-  display: flow-root;
   margin-top: 1rem;
 
   h4 {
@@ -171,12 +170,6 @@ blockquote {
   .honor-year {
     color: var(--global-theme-color);
     font-weight: 700;
-  }
-}
-
-@media (max-width: 575px) {
-  .honors-awards {
-    clear: both;
   }
 }
 
