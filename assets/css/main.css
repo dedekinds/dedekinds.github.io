@@ -219,7 +219,6 @@ blockquote {
   }
 }
 .honors-awards {
-  display: flow-root;
   margin-top: 1rem;
 }
 .honors-awards h4 {
@@ -240,11 +239,6 @@ blockquote {
   font-weight: 700;
 }
 
-@media (max-width: 575px) {
-  .honors-awards {
-    clear: both;
-  }
-}
 .home-news-section {
   margin-bottom: 2rem;
 }
