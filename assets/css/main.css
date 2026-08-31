@@ -218,6 +218,31 @@ blockquote {
     display: block;
   }
 }
+.honors-awards {
+  margin-top: 1rem;
+}
+.honors-awards h4 {
+  margin-bottom: 0.65rem;
+}
+.honors-awards .honors-list {
+  border-left: 2px solid var(--global-theme-color);
+  padding-left: 0.9rem;
+}
+.honors-awards .honor-item {
+  display: grid;
+  grid-template-columns: 3.5rem minmax(0, 1fr);
+  column-gap: 0.75rem;
+  padding: 0.2rem 0;
+}
+.honors-awards .honor-year {
+  color: var(--global-theme-color);
+  font-weight: 700;
+}
+
+.home-news-section {
+  margin-bottom: 2rem;
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
