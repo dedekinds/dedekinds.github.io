@@ -57,6 +57,20 @@ layout: default
                   <strong> | </strong>
                   <a href="https://github.com/dedekinds" target="_blank" title="GitHub"><i class="fab fa-github"></i> github</a>
           </div>
+
+          <section class="honors-awards" aria-labelledby="honors-awards-heading">
+            <h4 id="honors-awards-heading">Honors &amp; Awards</h4>
+            <div class="honors-list">
+              <div class="honor-item">
+                <span class="honor-year">2025</span>
+                <span><strong>Outstanding Paper</strong>, ACL 2025 <a href="https://arxiv.org/pdf/2505.19959" target="_blank" rel="noopener noreferrer">[MiniLongBench]</a></span>
+              </div>
+              <div class="honor-item">
+                <span class="honor-year">2025</span>
+                <span><strong>Best Paper Candidate</strong>, MMM 2025 <a href="https://link.springer.com/chapter/10.1007/978-981-96-2054-8_29" target="_blank" rel="noopener noreferrer">[AlterSGD]</a></span>
+              </div>
+            </div>
+          </section>
           
             
           <br>
@@ -67,10 +81,11 @@ layout: default
           <br> -->
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
-            {%- include news.html %}
+            <section class="home-news-section">
+              <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+              {%- include news.html %}
+            </section>
           {%- endif %}
-          <br>
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <!-- <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications (click here for all)</a></h2> -->
